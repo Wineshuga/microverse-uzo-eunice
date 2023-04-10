@@ -51,3 +51,14 @@ footer{
     line-height: 2;
     border: 1px solid;
 }
+main{
+    padding: 5rem;
+}
+#submit{
+    background-color: #f1c40f;
+
+}
+form{
+    display: block;
+    margin: 1rem;
+}

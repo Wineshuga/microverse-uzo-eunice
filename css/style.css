@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+#header>img {
+    width: 30%;
+}
+
+#nav-bar>ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-link {
+    text-decoration: none;
+}
